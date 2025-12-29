@@ -1,0 +1,7 @@
+pandas 
+pyarrow 
+astapi 
+uvicorn 
+python-multipart 
+joblib 
+PyPDF2
